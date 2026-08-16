@@ -1,4 +1,4 @@
-name: Build Tauri Desktop Multi-Platform
+name: Build App ARM
 
 on:
   push:
